@@ -17,3 +17,6 @@ export default {
     ]
   }
 }
+export default defineConfig({
+  base: '/documentation/'
+})
