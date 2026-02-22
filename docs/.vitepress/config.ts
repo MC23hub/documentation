@@ -1,5 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
 
+export default defineConfig({
   title: 'MC23hub',
 
   themeConfig: {
@@ -16,7 +17,4 @@ export default {
       },
     ]
   }
-}
-export default defineConfig({
-  base: '/documentation/'
 })
