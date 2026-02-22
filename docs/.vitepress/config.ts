@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/documentation/',
   title: 'MC23hub',
 
   themeConfig: {
