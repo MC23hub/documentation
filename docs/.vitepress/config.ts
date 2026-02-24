@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/index' },
-      { text: 'Guide', link: '/guide/getting-started' }
+      { text: 'Guide', link: '/guide/planned-features' }
     ],
     sidebar: [
       {
