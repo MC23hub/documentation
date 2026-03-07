@@ -7,4 +7,4 @@ These are features i currently plan to add.
 A way to browse cities on the server, like you can do with players and companies.
 
 - ### Multilingual:
-Translate the page to different languages to make the site multilingual.
+Translate the page to different languages in order to make the site multilingual.
