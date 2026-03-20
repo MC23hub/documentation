@@ -11,3 +11,6 @@ Translate the page to different languages in order to make the site multilingual
 
 - ### Lightmode:
 Add an option to switch themes from dark to light mode (and maybe also other themes).
+
+- ### Unique background images:
+Make it possible to have different background images for every company site.
