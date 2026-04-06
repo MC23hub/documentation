@@ -7,3 +7,9 @@ Welcome to the all new MC23hub, the successor of iSite. With this massive update
 ### `2026-03-20`
 
 ---
+
+## - 2.1:
+A small little update. We've switched from using the PlayerDB API to Mojangs official API. This is possible to thanks to a Cloudflare worker forwarding the API so that CORS isn't needed. Because of that change the names are now alot faster in updating, before it could take some weeks before the names got updated, now it takes seconds. 
+### `2026-04-06`
+
+---
