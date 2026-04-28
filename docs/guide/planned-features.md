@@ -14,3 +14,9 @@ Add an option to switch themes from dark to light mode (and maybe also other the
 
 - ### Unique background images:
 Make it possible to have different background images for every company site.
+
+- ### Company more info bugfix:
+Fix the bug on the company pages where the more info button moves based on if the menu is opened or not.
+
+
+
